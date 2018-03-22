@@ -1,4 +1,4 @@
-package WordList::Char::Latin1::Digits;
+package WordList::Char::Latin1::Digit;
 
 # DATE
 # VERSION

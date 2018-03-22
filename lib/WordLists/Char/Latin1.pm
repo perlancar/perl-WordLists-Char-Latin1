@@ -8,7 +8,8 @@ package WordLists::Char::Latin1;
 
 =head1 DESCRIPTION
 
-This distribution contains the following modules:
+This distribution is mostly for testing. This distribution contains the
+following modules:
 
 # INSERT_MODULES_LIST -/^WordLists::/
 
